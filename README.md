@@ -5,7 +5,7 @@ I refer to here when I get lost when doing a dockerized web application.
 
 first,
 
-docker build -t <tagname> .
+docker build -t tdddjango .
 
 and then, 
 
